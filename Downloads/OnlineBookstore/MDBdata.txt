@@ -1,0 +1,5 @@
+cd Projectdirectory/backend
+
+mongo "mongodb+srv://zijingohmeywu:22ing9362@cluster0.glil1.mongodb.net/bookstoreDB?retryWrites=true&w=majority"
+
+use bookstoreDB
