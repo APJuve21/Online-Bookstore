@@ -1,0 +1,34 @@
+#myInvoice {
+	margin: 50px;
+}
+
+#titleInvoice {
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+#detailInvoice {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#orderInvoice {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-style: italic;
+}
+
+#endMessage {
+	font-size: 25px;
+}
+
+#okButton {
+	background: transparent;
+	margin-top: 50px;
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 10px;
+}

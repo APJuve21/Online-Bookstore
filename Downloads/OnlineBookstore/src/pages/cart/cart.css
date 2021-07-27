@@ -1,0 +1,32 @@
+#cartDetails {
+	font-size: 20px;
+}
+
+label {
+	text-align: center;
+	width: 100%;
+	font-size: 20px;
+}
+form {
+	text-align: center;
+	width: 100%;
+}
+input {
+	padding: 10px;
+	font-size: large;
+	margin: 20px;
+}
+
+button {
+	padding: 10px;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-right: 10px;
+	border-radius: 10px;
+}
+
+#totalPrice {
+	font-size: 30px;
+	margin-top: 10px;
+	font-weight: bold;
+}

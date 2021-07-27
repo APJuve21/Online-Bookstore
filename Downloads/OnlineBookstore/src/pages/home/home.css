@@ -1,0 +1,381 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#linkIcons {
+	display: inline-flex;
+	margin-left: auto;
+}
+
+#cartButtonHome {
+	font-size: 35px;
+	border: none;
+	background: transparent;
+	font-weight: bold;
+}
+
+#cartLinkHome {
+	padding: 10px;
+	display: flexbox;
+	display: inline-flex;
+	font-weight: bold;
+}
+
+#linkNav {
+	font-weight: bold;
+	font-style: italic;
+	display: inline-flex;
+	width: 80%;
+	margin: 10px;
+	font-size: 90%;
+}
+
+#linkHome {
+	padding-right: 10px;
+	margin: 5px;
+}
+
+#linkDetails {
+	padding: 10px;
+	margin: 5px;
+}
+
+#arrow {
+	padding: 10px;
+	margin: 5px;
+}
+
+#linkHome {
+	padding: 10px;
+	margin: 5px;
+}
+
+#searchBar {
+	display: inline-flex;
+	flex-flow: row-reverse;
+	padding: 10px;
+	justify-content: right;
+	width: 100%;
+	margin-right: 10px;
+	margin-top: 25px;
+}
+
+#searchButtonHome {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#searchBox {
+	padding: 10px;
+	font-size: 22px;
+	padding-bottom: 14px;
+	border-radius: 5px;
+	background: transparent;
+	width: 20%;
+	margin-right: 10px;
+	margin-left: 15px;
+}
+
+#myCategory {
+	margin: 10px;
+	padding-right: 10px;
+	margin-right: 450px;
+}
+
+#myBookCatBox {
+	display: flex;
+	margin: 10px;
+}
+
+#myBook {
+	display: flexbox;
+}
+
+#BookChunk {
+	display: inline-flex;
+	width: 100%;
+}
+#sortButton {
+	font-size: 18px;
+	background: transparent;
+	padding-right: 10px;
+	border-radius: 10px;
+	width: 30%;
+}
+
+#sortChunk {
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+#allTitle {
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+#Book {
+	padding: 10px;
+	margin-right: 50px;
+}
+
+#Book0 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#Book1 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book3 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book4 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book5 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book6 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book7 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book8 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book9 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book10 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#Book11 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: inline-flexbox;
+}
+
+#newarrival0 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname0 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+
+#newarrival0 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname1 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival2 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname2 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival3 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname3 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival4 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname4 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival5 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname5 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival6 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname6 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival7 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname7 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival8 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname8 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival9 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname9 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival10 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname10 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+#newarrival11 {
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+#bookname11 {
+	padding-top: 20px;
+	font-size: 30px;
+	font-style: bold;
+	padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+	#myBook {
+		justify-content: space-between;
+	}
+
+	#myCategory {
+		margin-right: 10px;
+	}
+
+	#linkIcons {
+		display: block;
+		width: 100%;
+	}
+
+	#searchBar {
+		display: block;
+		width: 100%;
+	}
+
+	#searchButtonHome {
+		font-size: 12px;
+		padding: 12px;
+	}
+	#searchBox {
+		font-size: 10px;
+	}
+
+	#combine {
+		display: block;
+	}
+
+	#cartButtonHome {
+		font-size: 28px;
+	}
+}

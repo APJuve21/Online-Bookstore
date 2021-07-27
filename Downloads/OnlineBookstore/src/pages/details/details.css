@@ -1,0 +1,89 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	display: flexbox;
+	margin: 10px;
+}
+
+#bookContent {
+	display: inline-flex;
+}
+
+#myOther {
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 40px;
+}
+#bookname {
+	padding-bottom: 40px;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#bookimage {
+	padding-bottom: 10px;
+}
+
+#author {
+	padding-bottom: 40px;
+}
+
+#published {
+	padding-bottom: 40px;
+}
+
+#category {
+	padding-bottom: 40px;
+}
+
+#lang {
+	padding-bottom: 40px;
+}
+
+#description {
+	padding-bottom: 40px;
+	font-style: italic;
+}
+
+#order {
+	padding-bottom: 10px;
+	font-size: 25px;
+}
+
+#orderBox {
+	background: transparent;
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+#orderButton {
+	background: transparent;
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 820px) {
+	#bookContent {
+		display: block;
+	}
+	#myOther {
+		padding: 5px;
+		font-size: 16px;
+		margin-bottom: 40px;
+	}
+	#order {
+		font-size: 15px;
+	}
+	#orderBox {
+		font-size: 10px;
+	}
+	#orderButton {
+		font-size: 10px;
+	}
+	#bookname {
+		font-size: 30px;
+	}
+}

@@ -1,0 +1,87 @@
+#boxCustomer {
+	display: inline-flex;
+	padding: 20px;
+	margin: 10px;
+	font-size: 30px;
+	align-items: center;
+}
+
+#newBox {
+	margin: 10px;
+	padding-right: 50px;
+}
+
+#alreadyBox {
+	margin: 10px;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+#orBox {
+	margin: 10px;
+	padding-right: 50px;
+}
+
+#signinBox {
+	margin: 10px;
+	padding-right: 50px;
+}
+
+#detailBox {
+	background-color: cadetblue;
+	display: block;
+}
+
+#userwarning {
+	color: red;
+}
+
+#myCustomer {
+	text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+	#boxCustomer {
+		font-size: 15px;
+	}
+
+	#linkNav {
+		font-size: 15px;
+	}
+	#createTitle {
+		font-size: 20px;
+	}
+	#username {
+		font-size: 12px;
+	}
+	#password {
+		font-size: 12px;
+	}
+	#name {
+		font-size: 12px;
+	}
+	#company {
+		font-size: 12px;
+	}
+	#address1 {
+		font-size: 12px;
+	}
+	#address2 {
+		font-size: 12px;
+	}
+	#city {
+		font-size: 12px;
+	}
+	#region {
+		font-size: 12px;
+	}
+	#country {
+		font-size: 12px;
+	}
+	#postcode {
+		font-size: 12px;
+	}
+	#myOrder {
+		font-size: 15px;
+	}
+}
