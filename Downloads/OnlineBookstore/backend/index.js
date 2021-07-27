@@ -7,7 +7,7 @@ const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 
 //connect to db
-const mongo_uri = "mongodb+srv://zijingohmeywu:22ing9362@cluster0.glil1.mongodb.net/bookstoreDB?retryWrites=true&w=majority";
+const mongo_uri = "mongodb+srv://username:password@cluster0.glil1.mongodb.net/bookstoreDB?retryWrites=true&w=majority";
 mongoose.connect(mongo_uri, { useNewUrlParser: true }
 , function (err) {
   if (err) {
